@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    padding:23px;
+    margin:23px;
+}
+.screen{
+    padding:23px;
+    margin:12px;
+    height:6vh;
+    width:20%;
+    border:2px solid black;
+}
+.btns{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    gap:2px;
+}
+.btns2{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    gap:2px;
+}
+.btns3{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    gap:2px;
+}
+.btns4{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    gap:2px;
+}
+.button{
+    padding:12px;
+    height:8vh;
+    width:6vw;
+}
+.operation{
+    padding:12px;
+    height:8vh;
+    width:6vw;
+}
